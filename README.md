@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Uriel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"></h1>
 
-- :technologist: Ingenierio en sistema computacionales.
-- :student: Estudie la carrera de `Ingeniería en sistemas computacionales`.
+- :student: Estudié la carrera de `Ingeniería en sistemas computacionales`.
+- :technologist: Soy apasionado del desarrollo de software.
 - :nerd_face: Siempre estoy aprendiendo cosas nuevas, me encantan entender y aprender.
 - :thinking: Actualmente estoy en busca de una `oportunidad de trabajo`.
 - :boom: Puedes visitar mi [Portafolio](https://portafolio-urlcm.web.app/).

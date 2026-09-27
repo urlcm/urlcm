@@ -2,7 +2,7 @@
 
 - :student: Estudié la carrera de `Ingeniería en sistemas computacionales`.
 - :technologist: Soy apasionado del desarrollo de software.
-- :nerd_face: Siempre estoy aprendiendo cosas nuevas, me encantan entender y aprender.
+- :nerd_face: Siempre estoy aprendiendo cosas nuevas.
 - :thinking: Actualmente estoy en busca de una `oportunidad de trabajo`.
 - :boom: Puedes visitar mi [Portafolio](https://portafolio-urlcm.web.app/).
 

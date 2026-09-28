@@ -1,9 +1,9 @@
 <h1 align="center">Hola, soy Uriel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"></h1>
 
-- :student: Estudié la carrera de `Ingeniería en sistemas computacionales`.
+- :student: Estudié la carrera de `Ingeniería en sistemas computacionales`
 - :technologist: Soy apasionado del desarrollo de software.
 - :nerd_face: Siempre estoy aprendiendo cosas nuevas.
-- :thinking: Actualmente estoy en busca de una `oportunidad de trabajo`.
+- :thinking: Actualmente estoy en busca de una `oportunidad de trabajo`
 - :boom: Puedes visitar mi [Portafolio](https://portafolio-urlcm.web.app/).
 
 
@@ -16,8 +16,6 @@
   
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **urlcm/urlcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
